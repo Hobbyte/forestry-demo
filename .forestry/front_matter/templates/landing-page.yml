@@ -79,6 +79,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: include
+  template: testpartial
+  label: block
+  name: block
 pages:
 - wrthrsthjg.md
 - testlandingpage.md
