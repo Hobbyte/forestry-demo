@@ -13,6 +13,7 @@ services: []
 show_news: false
 partners: []
 show_staff: false
-published: false
+body: adfgagsfd
+image: "/uploads/2018/02/17/building.jpg"
 
 ---
