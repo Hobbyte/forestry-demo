@@ -80,5 +80,6 @@ fields:
   hidden: true
   default: home
 pages:
+- wrthrsthjg.md
 - testlandingpage.md
 - index.md
