@@ -83,6 +83,9 @@ fields:
   template: testpartial
   label: block
   name: block
+- type: textarea
+  label: testbox
+  name: testbox
 pages:
 - wrthrsthjg.md
 - testlandingpage.md
