@@ -29,6 +29,9 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+body: ''
+image: ''
+testbox: where does this text go?
 menu:
   navigation:
     identifier: _index
