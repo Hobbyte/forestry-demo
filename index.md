@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: more stuff
+  description: sfsdfsd
+  icon: "/uploads/2018/02/17/building.jpg"
 - heading: Stuff
   description: asdfsad
   icon: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
